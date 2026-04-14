@@ -1,5 +1,5 @@
 # infocera-landing-page
-A modern responsive landing page built using HTML, CSS, and JavaScript.
+A modern responsive landing page built using HTML, CSS.
 
 ## Features
 - Responsive design
