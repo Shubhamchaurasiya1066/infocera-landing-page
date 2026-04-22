@@ -1,5 +1,5 @@
 # infocera-landing-page
-A modern responsive landing page built using HTML, CSS.
+A modern responsive landing page built using HTML, TailWind CSS.
 
 ## Features
 - Responsive design
